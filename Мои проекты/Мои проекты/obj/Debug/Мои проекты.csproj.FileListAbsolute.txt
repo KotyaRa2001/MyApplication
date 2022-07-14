@@ -1,0 +1,26 @@
+C:\Users\TehProfit\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои проекты.csproj.AssemblyReference.cache
+C:\Users\TehProfit\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои проекты.csproj.SuggestedBindingRedirects.cache
+C:\Users\TehProfit\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Form1.resources
+C:\Users\TehProfit\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Form2.resources
+C:\Users\TehProfit\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Properties.Resources.resources
+C:\Users\TehProfit\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои проекты.csproj.GenerateResource.cache
+C:\Users\TehProfit\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои проекты.csproj.CoreCompileInputs.cache
+C:\Users\TehProfit\Documents\Челноков\Мои проекты\Мои проекты\bin\Debug\Мои проекты.exe.config
+C:\Users\TehProfit\Documents\Челноков\Мои проекты\Мои проекты\bin\Debug\Мои проекты.exe
+C:\Users\TehProfit\Documents\Челноков\Мои проекты\Мои проекты\bin\Debug\Мои проекты.pdb
+C:\Users\TehProfit\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои проекты.exe
+C:\Users\TehProfit\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои проекты.pdb
+C:\Users\TehProfit\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Form3.resources
+C:\Users\Student\Documents\Челноков\Мои проекты\Мои проекты\bin\Debug\Мои проекты.exe.config
+C:\Users\Student\Documents\Челноков\Мои проекты\Мои проекты\bin\Debug\Мои проекты.exe
+C:\Users\Student\Documents\Челноков\Мои проекты\Мои проекты\bin\Debug\Мои проекты.pdb
+C:\Users\Student\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои проекты.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои проекты.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Form1.resources
+C:\Users\Student\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Form2.resources
+C:\Users\Student\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Form3.resources
+C:\Users\Student\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Properties.Resources.resources
+C:\Users\Student\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои проекты.csproj.GenerateResource.cache
+C:\Users\Student\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои проекты.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои проекты.exe
+C:\Users\Student\Documents\Челноков\Мои проекты\Мои проекты\obj\Debug\Мои проекты.pdb
